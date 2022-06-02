@@ -28,12 +28,6 @@
     margin-top: 15px;
     margin-bottom: 50px;
   }
-
-  #icon{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }  
   
 </style>
 
