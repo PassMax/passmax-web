@@ -1,6 +1,6 @@
 # PassMax Website
 
-The passmax website is hosted on [GitHub](https://passmax.gihtub.io).
+The passmax website is hosted by [vercel](https://passmax.vercel.app).
 
 ## Installation
 
