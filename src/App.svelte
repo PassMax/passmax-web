@@ -52,7 +52,7 @@
 <h1 id="center" class="title is-1">PassMax</h1>
 
 <div id="icon">
-  <img src="src/icon.png" alt="icon" width="350" height="350">
+  <img src="icon.png" alt="icon" width="350" height="350">
 </div>
 
 
