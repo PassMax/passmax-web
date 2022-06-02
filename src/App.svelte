@@ -51,10 +51,6 @@
 
 <h1 id="center" class="title is-1">PassMax</h1>
 
-<div id="icon">
-  <img src="icon.png" alt="icon" width="350" height="350">
-</div>
-
 
 <p id="center">A minimal Password manager built with python!</p>
 
