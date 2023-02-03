@@ -1,3 +1,5 @@
+> Passmax is deprecated. Please do not use it and do not make me suffer...
+
 # PassMax Website
 
 The passmax website is hosted by [vercel](https://passmax.vercel.app).
